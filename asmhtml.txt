@@ -1,0 +1,14 @@
+file:///home/kev/Desktop/fasm/web/x86%20assembly.html
+file:///home/kev/Desktop/fasm/web/NASM%20Tutorial.html
+file:///home/kev/Desktop/fasm/web/System%20Call%20Table.html
+file:///home/kev/Desktop/fasm/web/Guide%20to%20x86%20Assembly.html
+file:///home/kev/Desktop/fasm/web/Memory%20Allocation%20in%20Linux.html
+file:///home/kev/Desktop/fasm/web/x86-64%20Tour%20of%20Intel%20Manuals.html
+file:///home/kev/Desktop/fasm/web/Fixed%20Point%20Arithmetic%20and%20Tricks.html
+file:///home/kev/Desktop/fasm/web/x86%20Assembly%20Language%20Programming.html
+file:///home/kev/Desktop/fasm/web/Introduction%20to%20x64%20Assembly%20|%20Intel%C2%AE%20Developer%20Zone.html
+file:///home/kev/Desktop/fasm/web/Vulnerability%20analysis,%20Security%20Papers,%20Exploit%20Tutorials%20-%20Part%2035646.html
+file:///home/kev/Desktop/fasm/web/Working%20with%20Big%20Numbers%20Using%20x86%20Instructions.html
+/home/kev/My Web Sites/Asm keywords/index.html
+/home/kev/My Web Sites/Assembly language/index.html
+/home/kev/My Web Sites/AT&TAssemblylanguage/index.html
